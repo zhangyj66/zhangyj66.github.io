@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Youjia Zhang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "zhangyj66/zhangyj66.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Youji Zhang"
+  name             : "Youjia Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Sungkyunkwan Univ."
   location         : "Seoul, Korea"
