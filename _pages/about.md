@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Youjia Zhang"
+title: ""
 redirect_from: 
   - /about/
   - /about.html
